@@ -1,0 +1,1 @@
+I implemented OOP example in C# and then converted to RUST. To show how OOP thinga are wokring in RUST. 
